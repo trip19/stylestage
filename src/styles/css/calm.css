@@ -57,13 +57,13 @@ body{
   overflow: hidden;
 }
 .skip-link:focus {
+ color: var(--clr-secondary);
   position: fixed;
   top: 0;
   left: 0;
   width: auto;
   height: auto;
   padding: 0.5em;
-  color: var(--clr-secondary);
 }
 
 /*header and nav*/
